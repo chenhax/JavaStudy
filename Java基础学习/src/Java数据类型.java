@@ -16,5 +16,8 @@ public class Java数据类型 {
         布尔型：
             boolean：理论上只占1位(bit)，实际上做变量是占4个字节，在数组中占1个字节
          */
+
+        float f1 = 12.3F;//float赋值时后面最好加f或F，因为12.3是double型的
+        long d = 88888888888L;//long赋值时后面最好加l或L
     }
 }
